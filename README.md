@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jared5324
-- 👀 I’m interested in Swift, web design, learning by practice
-- 🌱 I’m currently learning Swift basics
+- 👀 I’m interested in Python, web design, learning by practice
+- 🌱 I’m currently learning Python basics
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me jared5324ww@gmail.com
 
